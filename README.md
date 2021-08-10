@@ -1,8 +1,8 @@
 ### Olá meu nome é Danrlei Hornke 👋
 
 ### 🔭 Precisa falar comigo?
-  codingdh@gmail.com
-  www.dhcoding.com
+  * codingdh@gmail.com
+  * www.dhcoding.com
 
 
 <!--
