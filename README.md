@@ -10,7 +10,7 @@
    * NODE
    * REACT
    * MQL5
-   * MQL4
+   * MQL4 [![wakatime](https://wakatime.com/badge/github/Danrlei-Hornke/backend.svg)](https://wakatime.com/badge/github/Danrlei-Hornke/backend)
    * [![wakatime](https://wakatime.com/badge/github/Danrlei-Hornke/MQL4.svg)](https://wakatime.com/badge/github/Danrlei-Hornke/MQL4)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danrlei-Hornke&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
