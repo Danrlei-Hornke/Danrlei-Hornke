@@ -4,7 +4,7 @@
 ### codingdh@gmail.com
 ### www.dhcoding.com
 
-![Image of Yaktocat](https://th.bing.com/th/id/R.02d5846bdc5a260825018f3686f6d5a4?rik=mJ3xjlNFGFIk6g&pid=ImgRaw&r=0)
+![Image of Yaktocat](https://th.bing.com/th/id/OIP.AtWEa9xaJgglAY82hvbVpAHaEc?pid=ImgDet&w=900&h=540&rs=1)
 
 <!--
 **Danrlei-Hornke/Danrlei-Hornke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
