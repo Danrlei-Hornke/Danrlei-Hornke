@@ -4,6 +4,8 @@
 ### codingdh@gmail.com
 ### www.dhcoding.com
 
+![Image of Yaktocat](https://images.alphacoders.com/872/872716.jpg)
+
 <!--
 **Danrlei-Hornke/Danrlei-Hornke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
