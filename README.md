@@ -1,8 +1,17 @@
 ### Olá meu nome é Danrlei Hornke 👋
 
-###### 🔭 Precisa falar comigo?
+##### 🔭 Precisa falar comigo?
   * codingdh@gmail.com
   * www.dhcoding.com
+#### Linguagens com conhecimento
+   * HTML
+   * JAVASCRIPT
+   * CSS
+   * NODE
+   * REACT
+   * MQL5
+   * MQL4
+
 
 
 <!--
