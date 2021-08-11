@@ -1,8 +1,8 @@
 ### Olá meu nome é Danrlei Hornke 👋
 
 ### Sobre Mim
- --💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades nas linguagens que programo.
- --✉️ Se precisar falar comigo, entre em contato pelo e-mail codingdh@gmail.com que responderei com prazer o mais rapido possivel.
+  - 💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades nas linguagens que programo.
+  - ✉️ Se precisar falar comigo, entre em contato pelo e-mail codingdh@gmail.com que responderei com prazer o mais rapido possivel.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danrlei-dscoding/)](https://www.linkedin.com/in/danrlei-dscoding/)
 ________________________________________________________________________________________________________________________________________
