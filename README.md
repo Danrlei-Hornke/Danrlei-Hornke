@@ -7,8 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danrlei-dscoding/)](https://www.linkedin.com/in/danrlei-dscoding/)
 ________________________________________________________________________________________________________________________________________
 🛠  **Conhecimentos :**
+--
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Danrlei-Hornke)](https://github.com/Danrlei-Hornke)
 [![React icon](https://badgen.net/badge/React/median/green?icon=react)](https://badgen.net/badge/React/median/:green?icon=)
+--
 #### Linguagens com conhecimento
    * HTML
    * JAVASCRIPT
