@@ -8,7 +8,7 @@
 
 - 🛠  Conhecimentos :
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Danrlei-Hornke)](https://github.com/Danrlei-Hornke)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![React](https://badgen.net/badge/:react/:React/:gray?icon=github)]
 #### Linguagens com conhecimento
    * HTML
    * JAVASCRIPT
