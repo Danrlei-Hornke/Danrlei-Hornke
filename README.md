@@ -1,12 +1,14 @@
 ### Olá meu nome é Danrlei Hornke 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danrlei-dscoding/)](https://www.linkedin.com/in/danrlei-dscoding/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Danrlei-Hornke)](https://github.com/Danrlei-Hornke)
+### Sobre Mim
+💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades nas linguagens que programo.
+✉️ Se precisar falar comigo, entre em contato pelo e-mail codingdh@gmail.com que responderei com prazer o mais rapido possivel.
 
-##### 🔭 Precisa falar comigo?
-  * codingdh@gmail.com
-  * www.dhcoding.com
-  * 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danrlei-dscoding/)](https://www.linkedin.com/in/danrlei-dscoding/)
+
+🛠  Conhecimentos :
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Danrlei-Hornke)](https://github.com/Danrlei-Hornke)
+  
 #### Linguagens com conhecimento
    * HTML
    * JAVASCRIPT
@@ -14,6 +16,6 @@
    * NODE
    * REACT
    * MQL5
-   * MQL4 [![wakatime](https://wakatime.com/badge/github/Danrlei-Hornke/backend.svg)](https://wakatime.com/badge/github/Danrlei-Hornke/backend)
+   * MQL4
   
 
