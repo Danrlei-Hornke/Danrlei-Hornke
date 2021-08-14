@@ -2,15 +2,12 @@
 
   <details padding="10px">
     <summary>🛠 Conhecimentos</summary>
-   <a>  
      <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
      <img src="https://badgen.net/badge/icon/VisualStudio?icon=visualstudio&label"/>
-     <img src="https://badgen.net/badge/icon/Typescript?icon=typescript&label"/>
-     <img src="https://badgen.net/badge/React/React/blue?icon=react"/>
-     <img src="https://badgen.net/badge/Html/Html/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg&label"/>
- 
-
-    </a>
+     <img src="https://badgen.net/badge/React/React/blue?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&label"/>
+     <img src="https://badgen.net/badge/Html/HTML5/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg&label"/>
+     <img src="https://badgen.net/badge/Typescript/Typescript/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg&label"/>
+  <img src="https://badgen.net/badge/Typescript/NodeJs/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg&label"/>
   </details>
 
 ### Sobre Mim
