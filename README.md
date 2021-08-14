@@ -5,8 +5,9 @@
   - ✉️ Se precisar falar comigo, entre em contato pelo e-mail codingdh@gmail.com que responderei o mais breve possivel.
 __________________________________________________________________________________________________________________________________
 <details>
+  <sumary>🛠  **Conhecimentos :**</sumary>
   <br>
-🛠  **Conhecimentos :**
+
 --
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Danrlei-Hornke)](https://github.com/Danrlei-Hornke)
 --
