@@ -6,8 +6,8 @@
      <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
      <img src="https://badgen.net/badge/icon/VisualStudio?icon=visualstudio&label"/>
      <img src="https://badgen.net/badge/icon/Typescript?icon=typescript&label"/>
-     <img src="https://badgen.net/badge/icon/React?icon=htps://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg&label"/>
-    <img src="https://badgen.net/badge/Html/Html/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"/>
+     <img src="https://badgen.net/badge/React/React/blue?icon=htps://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&label"/>
+     <img src="https://badgen.net/badge/Html/Html/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg&label"/>
  
 
     </a>
