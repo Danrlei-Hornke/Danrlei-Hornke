@@ -4,7 +4,8 @@
 <!--![Snake animation](https://github.com/USERNAME/Danrlei-Hornke/blob/output/github-contribution-grid-snake.svg)-->
   - 💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades.
 
-![Snake animation](https://github.com/Danrlei-Hornke/blob/output/github-contribution-grid-snake.svg)
+## 🛠 **Contrubuição**
+![Snake animation](https://github.com/Danrlei-Hornke/Danrlei-Hornke/blob/output/github-contribution-grid-snake.svg)
 
 <details padding="10px">
   <summary>🛠 Conhecimentos Dev</summary>
