@@ -1,14 +1,19 @@
-### Olá, Tudo Bem? 👋
-
-### Sobre Mim
-<!--![Snake animation](https://github.com/USERNAME/Danrlei-Hornke/blob/output/github-contribution-grid-snake.svg)-->
-  - 💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades.
-
+### Olá, Bem Vindo.
+### ❔ Sobre Mim
+  - Gosto de explorar novas linguagens e tecnologias.
+  - Busco sempre desenvolver cada dia mais minhas abilidades.
+  - Iniciei na Programação em 2019 na area de mercado financeiro, programando robos para plataforma Meta Trader.
+  
+  - Hobies:
+    - Programação
+    - Musica
+    - Ler
 
 ### 🛠 **Conhecimentos**
 <div display="inline-block">
  <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
  <img src="https://badgen.net/badge/Typescript/VisualStudio/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg&label"/>
+  <img src="https://badgen.net/badge/Heroku/Heroku/purple/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg&label"/>
   <br>
  <img src="https://badgen.net/badge/MQL5/MQL5/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
  <img src="https://badgen.net/badge/MQL4/MQL4/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
@@ -18,7 +23,7 @@
  <img src="https://badgen.net/badge/MySql/MySql/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg&label"/>
   <br>
  <img src="https://badgen.net/badge/NodeJs/NodeJs/green/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg&label"/>
- <img src="https://badgen.net/badge/React/React/blue?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&label"/>
+ <img src="https://badgen.net/badge/React/React/cyan?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&label"/>
  <img src="https://badgen.net/badge/Typescript/Typescript/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg&label"/>
  <img src="https://badgen.net/badge/Npm/npm/red/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg&label"/>
  <img src="https://badgen.net/badge/Yarn/Yarn/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg&label"/>
@@ -37,8 +42,8 @@
    <a href="https://www.facebook.com/DhCoding/" target="_blank">
      <img src="https://badgen.net/badge/Facebook/Facebook/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg&label"/>         
    </a>
-   <a href="https://www.facebook.com/in/DhCoding/" target="_blank">
-     <img src="https://badgen.net/badge/Facebook/Facebook/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg&label"/>         
+   <a href="https://t.me/Ds_Coding" target="_blank">
+     <img src="https://badgen.net/badge/icon/telegram?icon=telegram&label"/>   
    </a>
  </div>
 
