@@ -5,7 +5,7 @@
   - 💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades.
 
 ## 🛠 **Contrubuição**
-![Snake animation](https://github.com/Danrlei-Hornke/Danrlei-Hornke/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Danrlei-Hornke/MQL5/blob/output/github-contribution-grid-snake.svg)
 
 <details padding="10px">
   <summary>🛠 Conhecimentos Dev</summary>
