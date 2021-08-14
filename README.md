@@ -4,8 +4,7 @@
   - 💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades.
   - ✉️ Se precisar falar comigo, entre em contato pelo e-mail codingdh@gmail.com que responderei o mais breve possivel.
 __________________________________________________________________________________________________________________________________
-<details>
-  <sumary>🛠  **Conhecimentos :**</sumary>
+<details>🛠  **Conhecimentos :**
   <br>
 
 --
