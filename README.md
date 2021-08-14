@@ -4,6 +4,7 @@
   - 💡 Gosto de explorar novas linguagens e busco sempre desenvolver cada dia mais minhas abilidades.
   - ✉️ Se precisar falar comigo, entre em contato pelo e-mail codingdh@gmail.com que responderei o mais breve possivel.
 __________________________________________________________________________________________________________________________________
+<a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=react"></a>
 <details>//🛠  **Conhecimentos :**
   <br>
 
