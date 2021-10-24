@@ -24,7 +24,7 @@
  <img src="https://badgen.net/badge/MySql/MySql/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg&label"/>
   <br>
  <img src="https://badgen.net/badge/NodeJs/NodeJs/green/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg&label"/>
- <img src="https://badgen.net/badge/React/React/cyan?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&label"/>
+ <img src="https://badgen.net/badge/ReactJs/ReactJs/cyan?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&label"/>
  <img src="https://badgen.net/badge/Typescript/Typescript/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg&label"/>
  <img src="https://badgen.net/badge/Npm/npm/red/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg&label"/>
  <img src="https://badgen.net/badge/Yarn/Yarn/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg&label"/>
