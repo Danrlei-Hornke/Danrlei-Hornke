@@ -14,7 +14,7 @@
  <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
  <img src="https://badgen.net/badge/Typescript/VisualStudio/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg&label"/>
  <img src="https://badgen.net/badge/Heroku/Heroku/purple/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg&label"/>
- <img src="https://badgen.net/badge/Heroku/AWS/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg&label"/>
+ <img src="https://badgen.net/badge/Heroku/AWS/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg&label"/>
   <br>
  <img src="https://badgen.net/badge/MQL5/MQL5/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
  <img src="https://badgen.net/badge/MQL4/MQL4/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
