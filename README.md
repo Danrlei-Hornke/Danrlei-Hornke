@@ -1,10 +1,11 @@
 ### Olá, Bem Vindo.
 
 ### ❔ *Algumas curiosades sobre mim*
+<div display="inline-block">
  🔲 Gosto de estudar novas tecnologias.
  🔲 Foco meus estudos para poder dominar mobile, frontend e backend
  🔲 Gosto de desafios, onde posso aprender coisas novas
- 
+</div>
 ### 🛠 *Tecnologias que possuo conhecimento*
 <div display="inline-block">
  <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
