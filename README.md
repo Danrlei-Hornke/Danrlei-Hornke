@@ -3,7 +3,9 @@
 ### ❔ *Algumas curiosades sobre mim*
 <div display="inline-block">
  🔲 Gosto de estudar novas tecnologias.
+  <br>
  🔲 Foco meus estudos para poder dominar mobile, frontend e backend
+  <br>
  🔲 Gosto de desafios, onde posso aprender coisas novas
 </div>
 ### 🛠 *Tecnologias que possuo conhecimento*
