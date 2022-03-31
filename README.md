@@ -1,13 +1,4 @@
 ### Olá, Bem Vindo.
-### ❔ Sobre Mim
-  - Gosto de explorar novas linguagens e tecnologias.
-  - Busco sempre desenvolver cada dia mais minhas abilidades.
-  - Iniciei na Programação em 2019 na area de mercado financeiro, programando robos para plataforma Meta Trader.
-  
-  - Hobies:
-    - Programação
-    - Musica
-    - Ler
 
 ### 🛠 **Conhecimentos**
 <div display="inline-block">
@@ -34,6 +25,13 @@
  <img src="https://badgen.net/badge/bootstrap/Bootstrap/purple/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg&label"/>
 </div>
 <br>
+
+ ### 
+ <div>
+<a href="https://github.com/Danrlei-Hornke">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei-Hornke&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?Danrlei-Hornke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
  ### ✉️ **Contato**
  <div display="inline-block">
