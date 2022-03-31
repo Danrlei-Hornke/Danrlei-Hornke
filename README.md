@@ -2,15 +2,11 @@
 
 ### ❔ *Algumas curiosades sobre mim*
 <div display="inline-block">
- ▫️ Gosto de estudar novas tecnologias.
-  <br>
- ▫️ Foco meus estudos para poder dominar mobile, frontend e backend.
-  <br>
- ▫️ Gosto de desafios, onde posso aprender coisas novas.
- 
-  <br>
-  <br>
+ ▫️ Gosto de estudar novas tecnologias.<br>
+ ▫️ Foco meus estudos para poder dominar mobile, frontend e backend.<br>
+ ▫️ Gosto de desafios, onde posso aprender coisas novas.<br><br>
 </div>
+
 ### 🛠 *Tecnologias que possuo conhecimento*
 <div display="inline-block">
  <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
