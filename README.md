@@ -1,7 +1,7 @@
 ### Olá, Bem Vindo.
  
  
-### 🛠 *Tecnologias que possuo conhecimento
+### 🛠 *Tecnologias que possuo conhecimento*
 <div display="inline-block">
  <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
  <img src="https://badgen.net/badge/Typescript/VisualStudio/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg&label"/>
@@ -34,7 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danrlei-Hornke&show_icons=true&icon_color=0fb81d&include_all_commits=true&count_private=true&bg_color=18191f"/>
  </div>
 
- ### ✉️ *Como me encontrar
+ ### ✉️ *Como me encontrar*
  <div display="inline-block">
    <a href="https://www.linkedin.com/in/danrlei-dscoding/" target="_blank">
      <img src="https://badgen.net/badge/Linkedin/Linkedin/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg&label"/>         
