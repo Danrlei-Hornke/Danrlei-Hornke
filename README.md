@@ -1,6 +1,7 @@
 ### Olá, Bem Vindo.
-
-### 🛠 **Conhecimentos**
+ 
+ 
+### 🛠 Conhecimentos
 <div display="inline-block">
  <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
  <img src="https://badgen.net/badge/Typescript/VisualStudio/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg&label"/>
@@ -26,14 +27,13 @@
 </div>
 <br>
 
- ### 
+ ### 💻 Alguns dados sobre o GitHub
  <div>
-<a href="https://github.com/Danrlei-Hornke">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei-Hornke&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danrlei-Hornke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <a href="https://github.com/Danrlei-Hornke">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danrlei- Hornke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </div>
 
- ### ✉️ **Contato**
+ ### ✉️ Contato
  <div display="inline-block">
    <a href="https://www.linkedin.com/in/danrlei-dscoding/" target="_blank">
      <img src="https://badgen.net/badge/Linkedin/Linkedin/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg&label"/>         
