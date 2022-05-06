@@ -35,7 +35,7 @@
 
  ### ✉️ *Como me encontrar*
  <div display="inline-block">
-   <a href="https://www.linkedin.com/in/danrlei-dscoding/" target="_blank">
+   <a href="https://www.linkedin.com/in/danrlei-dscoding" target="_blank">
      <img src="https://badgen.net/badge/Linkedin/Linkedin/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg&label"/>         
    </a>
    <a href="https://www.facebook.com/dh.hornke/" target="_blank">
