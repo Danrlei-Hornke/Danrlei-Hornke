@@ -9,6 +9,7 @@
   <br>
  <img src="https://badgen.net/badge/MQL5/MQL5/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
  <img src="https://badgen.net/badge/MQL4/MQL4/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
+ <img src="https://badgen.net/badge/CTRADER/CTRADER/red/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
  <img src="https://badgen.net/badge/HTML5/HTML5/orange/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg&label"/>
  <img src="https://badgen.net/badge/CSS3/CSS3/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg&label"/>
  <img src="https://badgen.net/badge/Javascript/Javascript/yellow/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg&label"/>
