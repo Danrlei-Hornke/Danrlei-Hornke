@@ -34,7 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danrlei-Hornke&show_icons=true&icon_color=0fb81d&include_all_commits=true&count_private=true&bg_color=18191f&text_color=fff"/>
  </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/github-profile-languages/?username=Danrlei-Hornke&layout=compact&bg_color=18191f&text_color=fff)](https://github.com/Danrlei-Hornke/github-profile-languages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei-Hornke&layout=compact&bg_color=18191f&text_color=fff)](https://github.com/Danrlei-Hornke/top-langs)
 
  ### ✉️ *Como me encontrar*
  <div display="inline-block">
