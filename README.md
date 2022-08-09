@@ -33,6 +33,8 @@
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danrlei-Hornke&show_icons=true&icon_color=0fb81d&include_all_commits=true&count_private=true&bg_color=18191f&text_color=fff"/>
  </div>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei-Hornke)](https://github.com/Danrlei-Hornke/github-readme-stats)
 
  ### ✉️ *Como me encontrar*
  <div display="inline-block">
