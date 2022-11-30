@@ -1,17 +1,16 @@
 ### Olá, Bem Vindo.
 
-### 🛠 *Tecnologias que possuo conhecimento*
+### 🛠 *Skills*
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,heroku,aws" />
+    <img src="https://skillicons.dev/icons?i=git,heroku,aws,vscode" />
   </a>
 </p>
-<div display="inline-block">
- <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
- <img src="https://badgen.net/badge/Typescript/VisualStudio/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg&label"/>
- <img src="https://badgen.net/badge/Heroku/Heroku/purple/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg&label"/>
- <img src="https://badgen.net/badge/Heroku/AWS/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg&label"/>
-  <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c++,c#,html,css,js,mysql" />
+  </a>
+</p>
  <img src="https://badgen.net/badge/MQL5/MQL5/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
  <img src="https://badgen.net/badge/MQL4/MQL4/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
  <img src="https://badgen.net/badge/CTRADER/CTRADER/red/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&label"/>
