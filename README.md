@@ -1,6 +1,11 @@
 ### Olá, Bem Vindo.
 
 ### 🛠 *Tecnologias que possuo conhecimento*
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,heroku,aws" />
+  </a>
+</p>
 <div display="inline-block">
  <img src="https://badgen.net/badge/icon/GitHub?icon=github&label"/>
  <img src="https://badgen.net/badge/Typescript/VisualStudio/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg&label"/>
